@@ -5,6 +5,7 @@ Develop a program that asks the user for an integer 4-digit number and calculate
 
 """
 abcd = int(input())
+
 a = abcd//1000
 b = abcd%1000//100
 c = abcd%100//10
